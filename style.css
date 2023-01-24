@@ -107,6 +107,26 @@ nav a:hover{
  
 footer{
     width: 100%;
-    height: 10opx;
+    height: 100px;
     background-color: deepskyblue;
+    display: flex;
 }
+
+#copyright{
+    width: 33%;
+    height: 80x;
+    float:;
+}
+
+#contacto{
+    width: 33%;
+    height: 80x;
+    align-items: center;
+}
+
+#redes{
+    width: 33%;
+    height: 80x;
+    float: ;
+}
+
